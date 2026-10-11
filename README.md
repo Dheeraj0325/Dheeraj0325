@@ -18,9 +18,6 @@ sender system ──► Service Bus ──► Logic App ──► Function ─�
 - 🛗 Idempotency is the lift button. Smash it five times, you still get one lift.
 - 🩺 Read the error before you fix. Doctors read the report, they don't guess the disease.
 
-🤝 Let's talk
-Azure integration, DevOps, or why a message got stuck in a queue at 2 AM.
-
 📫 How to reach me https://www.linkedin.com/in/dhiraj-pulakhandam-096a3621a/...
 <!---
 Dheeraj0325/Dheeraj0325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
